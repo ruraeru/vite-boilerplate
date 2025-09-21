@@ -1,6 +1,6 @@
-# 🚀 Sado Training 프로젝트
+# 🚀 Vite BoilerPlate 프로젝트
 
-이 문서는 Sado Training 프로젝트의 구조, 코딩 컨벤션 및 모범 사례를 알기 쉽게 설명합니다.
+이 문서는 프로젝트의 구조, 코딩 컨벤션을 설명합니다.
 
 ---
 
