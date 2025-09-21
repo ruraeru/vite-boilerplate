@@ -2,6 +2,39 @@
 
 이 문서는 프로젝트의 구조, 코딩 컨벤션을 설명합니다.
 
+🛠️ **프로젝트 기술 스택 및 버전**
+
+이 문서는 본 프로젝트에서 사용되는 주요 라이브러리 및 도구의 버전을 명시합니다.
+
+## ✨ Core
+
+| 카테고리   | 라이브러리 | 버전    |
+| ---------- | ---------- | ------- |
+| Framework  | React      | ^19.1.1 |
+| Build Tool | Vite       | ^7.1.6  |
+| Language   | TypeScript | ~5.8.3  |
+| Routing    | React Router DOM | ^7.9.1  |
+| State Management | Zustand | ^5.0.8 |
+
+## 🎨 Styling
+
+| 카테고리      | 라이브러리        | 버전    |
+| ------------- | ----------------- | ------- |
+| CSS Framework | Tailwind CSS      | ^4.1.13 |
+| Vite Plugin   | @tailwindcss/vite | ^4.1.13 |
+| PostCSS       | postcss           | ^8.5.6  |
+
+## ⚙️ Development Tools
+
+| 카테고리        | 라이브러리  | 버전    |
+| --------------- | ----------- | ------- |
+| Linter          | ESLint      | ^9.35.0 |
+| Code Formatter  | Prettier    | ^3.6.2  |
+| Git Hooks       | Husky       | ^9.1.7  |
+| Pre-commit Tool | lint-staged | ^16.1.6 |
+
+> 📝 **참고**: 버전 정보는 package.json 파일을 기준으로 작성되었습니다.
+
 ---
 
 ## 📂 1. 디렉토리 구조 (Directory Structure)
